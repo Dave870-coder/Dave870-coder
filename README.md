@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a aspiring ethical web hacker and Web developer
+I am a aspiring ethical  hacker and Web developer
 
 
 ## 🌐 Socials:
