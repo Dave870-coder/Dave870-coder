@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a aspiring ethical  hacker and Web developer
+I am a aspiring Software engineer
 
 Follow this link to my portfolio website:
 
