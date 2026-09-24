@@ -50,11 +50,9 @@ Software Engineering Student In Babcock University
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/ikechukwu-onuoha-49a864342" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@@Tripleedave_coder-b4g5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://dev.to/@dave870coder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://dave870-coder.github.io/David/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:oikechukwu312@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/https%3A%2F%2Fgithub.com%2FDave870-coder%2FDave870-coder.git">https://dave870-coder.github.io/David/</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/https%3A%2F%2Fgithub.com%2FDave870-coder%2FDave870-coder.git">https://github.com/Dave870-coder/Dave870-coder.git</a></i></p>
