@@ -41,7 +41,6 @@ Software Engineering Student In Babcock University
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </p>
@@ -53,4 +52,3 @@ Software Engineering Student In Babcock University
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/https%3A%2F%2Fgithub.com%2FDave870-coder%2FDave870-coder.git">https://github.com/Dave870-coder/Dave870-coder.git</a></i></p>
